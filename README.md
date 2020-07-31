@@ -1,7 +1,7 @@
 ## Hi, I am MMA.
 <a href="https://twitter.com/mmaismma"><img alt="mmaismma on Twitter" width="20px" src="https://raw.githubusercontent.com/mmaismma/mmaismma/master/Twitter_Social_Icon_Circle_Color.png" /></a>
 <a href="https://facebook.com/mmaismma"><img alt="mmaismma on Facebook" width="20px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" /></a>
-<a href="mailto:mmaismma@hotmail.com"><img alt="mmaismma@hotmail.com" width="20px" src="https://img.icons8.com/color/48/000000/email.png"/></a><br><br>
+<a href="mailto:mmaismma@hotmail.com"><img alt="mmaismma@hotmail.com" width="20px" src="https://img.icons8.com/color/48/000000/email.png"/></a><br>
 
 🔭 I’m currently working on [Hermit-Tools/Thumbnail-Maker](https://github.com/hermit-tools/Thumbnail-Maker).  
 👯 I’m looking to collaborate on Thumbnail-Maker☝.  
