@@ -18,7 +18,7 @@
  ◾ Founded <a href="https://www.outre.ml">Science Buzzer</a>.<br>
  </details>
 
-![MMA's github stats](https://github-readme-stats.vercel.app/api?username=mmaismma&show_icons=true&hide="stars")
+![MMA's github stats](https://github-readme-stats.vercel.app/api?username=mmaismma&show_icons=true&hide=stars)
 
 <a href="https://github.com/hermit-tools/Thumbnail-Maker">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hermit-tools&repo=Thumbnail-Maker>
