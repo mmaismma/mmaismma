@@ -19,6 +19,7 @@
  ◾ Made official Hermitcraft subreddit's logo for Season 6 and Season 7.<br>
  ◾ Currently working on <a href="https://github.com/hermit-tools/Thumbnail-Maker">Hermit-Tools/Thumbnail-Maker</a>.<br>
  ◾ Founded <a href="https://www.outre.ml">Science Buzzer</a>.<br>
+ <hr>
  </details>
 
 ![MMA's github stats](https://github-readme-stats.vercel.app/api?username=mmaismma&show_icons=true&hide=stars)
