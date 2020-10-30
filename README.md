@@ -7,9 +7,6 @@
 👯 I’m looking to collaborate on Thumbnail-Maker☝.  
 💬 Ask me about anything @ [mmaismma@hotmail.com](mailto:mmaismma@hotmail.com).  
 
-#### Languages I'm fluent in
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-
 <details>
   <summary>💎Portfolio</summary>
   <br>Hi. I am a graphic designer and a web developer.<br><br>
@@ -23,5 +20,5 @@
 <!--![MMA's github stats](https://github-readme-stats.vercel.app/api?username=mmaismma&show_icons=true&hide=stars)-->
 
 <a href="https://github.com/hermit-tools/Thumbnail-Maker">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hermit-tools&repo=Thumbnail-Maker>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hermit-tools&repo=Thumbnail-Maker">
 </a>
