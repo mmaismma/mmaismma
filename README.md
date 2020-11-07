@@ -20,3 +20,6 @@
 <a href="https://github.com/hermit-tools/Thumbnail-Maker">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hermit-tools&repo=Thumbnail-Maker">
 </a>
+<a href="https://github.com/mmaismma/beatmaker">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mmaismma&repo=beatmaker">
+</a>
