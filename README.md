@@ -1,25 +1,20 @@
-## Hi, I am MMA.
+# Howdy, I am MMA.
 <a href="https://twitter.com/mmaismma"><img alt="mmaismma on Twitter" width="20px" src="https://raw.githubusercontent.com/mmaismma/mmaismma/master/Twitter_Social_Icon_Circle_Color.png" /></a> 
-<a href="https://facebook.com/mmaismma"><img alt="mmaismma on Facebook" width="20px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" /></a> 
-<a href="mailto:mmaismma@hotmail.com"><img alt="mmaismma@hotmail.com" width="20px" src="https://img.icons8.com/color/48/000000/email.png"/></a><br>
+<a href="https://stackoverflow.com.com/mmaismma"><img alt="mmaismma on Stackoverflow" width="20px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a" /></a> 
+<a href="https://reddit.com/mmaismma"><img alt="mmaismma on Reddit" width="20px" src="https://img.icons8.com/color/48/000000/reddit.png"/></a> 
+<a href="mailto:mmaismma@hotmail.com"><img alt="mmaismma@hotmail.com" width="20px" src="https://img.icons8.com/color/48/000000/email.png"/></a>
 
-- I’m currently working on [Hermit-Tools/Thumbnail-Maker](https://github.com/hermit-tools/Thumbnail-Maker).  
-- Ask me anything @[mmaismma@hotmail.com](mailto:mmaismma@hotmail.com).
+A developer, a student, a teacher, a brainer, a gamer, a graphic designerm and most importantly, a human. I think I am more of a brainer than a developer.
 
-<details>
-  <summary>Brief portfolio</summary>
-  <br>I am a graphic designer and a web developer.<br><br>
-  
- - Made official Hermitcraft subreddit's logo for Season 6 and Season 7.  
- - Currently working on <a href="https://github.com/hermit-tools/Thumbnail-Maker">Hermit-Tools/Thumbnail-Maker</a>.  
- - Founded <a href="https://www.outre.ml">Science Buzzer</a>.  
- </details>
+### 🧠I am skilled in the following languages  
+<img src="https://img.icons8.com/color/48/000000/javascript.png"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"> <img src="https://img.icons8.com/offices/30/000000/abc.png"/>
 
-<!--![MMA's github stats](https://github-readme-stats.vercel.app/api?username=mmaismma&show_icons=true&hide=stars)-->
+### ✨In 2021 I want to learn  
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="48"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/fluent/48/000000/russian-federation-circular.png"/>
 
-<a href="https://github.com/hermit-tools/Thumbnail-Maker">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hermit-tools&repo=Thumbnail-Maker">
-</a>
-<a href="https://github.com/mmaismma/beatmaker">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mmaismma&repo=beatmaker">
-</a>
+### 💻I’m currently working on 
+- [Hermit-Tools/Thumbnail-Maker](https://github.com/hermit-tools/Thumbnail-Maker).  
+- [Beatmaker](https://github.com/mmaismma/beatmaker)
+- Two top-secret mega projects.
+
+Oh yeah and did I mention that I play Minecraft, love dogs and many of the icons are from [Icons8](icons8.com)
