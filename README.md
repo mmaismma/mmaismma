@@ -15,6 +15,9 @@ A developer, a student, a teacher, a brainer, a gamer, a graphic designer and mo
 ### 💻I’m currently working on 
 - [Hermit-Tools/Thumbnail-Maker](https://github.com/hermit-tools/Thumbnail-Maker).  
 - [Beatmaker](https://github.com/mmaismma/beatmaker)
+- [Cottontail](https://github.com/mmaismma/cottontail)
 - Two top-secret mega projects.
 
-Oh yeah, did I mention that I play Minecraft, love dogs and many of the icons are from [Icons8](icons8.com)
+<sub>
+Oh yeah, did I mention that I play Minecraft, love animals and many of the icons here are from <a href="icons8.com">Icons8</a>
+</sub>
