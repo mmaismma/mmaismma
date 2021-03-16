@@ -4,12 +4,12 @@
 <a href="https://reddit.com/mmaismma"><img alt="mmaismma on Reddit" width="20px" src="https://img.icons8.com/color/48/000000/reddit.png"/></a> 
 <a href="mailto:mmaismma@hotmail.com"><img alt="mmaismma@hotmail.com" width="20px" src="https://img.icons8.com/color/48/000000/email.png"/></a>
 
-A developer, a student, a teacher, a gamer, a graphic designer and most importantly, a human. I think I am more of a brainer than a developer.
+A developer, a student, a teacher, a gamer, a graphic designer and most importantly, a human. I am more of a brainer than a developer.
 
-### 🧠I am skilled in the following languages  
+### 🧠Languages I am skilled in  
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" title="Javascript"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML"> <img src="https://img.icons8.com/offices/30/000000/abc.png" alt="English" title="English"/>
 
-### ✨I want to learn  
+### ✨Languages I want to learn  
 <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript"  title="Typescript"/> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="48" alt="Rust" title="Rust"/> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/> <img src="https://img.icons8.com/fluent/48/000000/russian-federation-circular.png" alt="Russian" title="Russian"/>
 
 ### 💻I’m currently working on 
