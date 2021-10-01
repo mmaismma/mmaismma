@@ -6,18 +6,7 @@
 
 A developer, a student, a teacher, a gamer, a graphic designer and most importantly, a human. I am more of a brainer than a developer.
 
-### 🧠Languages I am skilled in  
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" title="Javascript"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML"> <img src="https://img.icons8.com/offices/30/000000/abc.png" alt="English" title="English"/>
-
-### ✨Languages I want to learn  
-<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript"  title="Typescript"/> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="48" alt="Rust" title="Rust"/> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/> <img src="https://img.icons8.com/fluent/48/000000/russian-federation-circular.png" alt="Russian" title="Russian"/>
-
 ### 💻I’m currently working on 
 - [Hermit-Tools/Thumbnail-Maker](https://github.com/hermit-tools/Thumbnail-Maker).  
 - [Beatmaker](https://github.com/mmaismma/beatmaker)
 - [Cottontail](https://github.com/mmaismma/cottontail)
-- Two top-secret mega projects!
-
-<sub>
-Oh yeah, did I mention that I play Minecraft, love animals and many of the icons here are from <a href="icons8.com">Icons8</a>?
-</sub>
